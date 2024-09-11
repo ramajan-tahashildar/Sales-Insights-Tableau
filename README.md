@@ -21,7 +21,7 @@ This project is focused on analyzing and visualizing sales data using Tableau. T
 1. Clone the repository.
 2. Open the Tableau workbook provided.
 3. Explore the dashboards and interact with the filters for deeper insights.
-4. 
+
 ## Conclusion:
 This project empowers users with data-driven insights into their sales performance, helping enhance productivity and business outcomes.
 

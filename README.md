@@ -3,7 +3,7 @@
 ## Overview
 This project is focused on analyzing and visualizing sales data using Tableau. The goal is to generate actionable insights that can improve business decision-making by identifying sales trends, performance metrics, and customer behaviors.
 
-##Demo
+## Demo
 
 ![image](Assets/Dashboard.png)
 
